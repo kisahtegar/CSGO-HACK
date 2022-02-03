@@ -3,9 +3,9 @@
 Press F if you got banned <br/>
 <br/>
 Dont forget to : <br/>
-pip install -U -r requirements.txt
-
-================================================================================================================================== <br/>
+pip install -U -r requirements.txt<br/>
+<br/>
+============================================================================================ <br/>
 | Bunnyhop                     | F1 toggle (hold space to bunny hop) <br/>
 | Rapid fire                   | F2 toggle (hold middle mouse to rapid fire) <br/>
 | Perfect 180 turnaround       | F3 toggle (press T to do 180°) <br/>
@@ -20,11 +20,9 @@ pip install -U -r requirements.txt
 | AUG and SG 553 zoom modifier | default Left Alt (hold when scoped in with aug or sg 553) <br/>
 | Disable norecoil             | default F11 <br/>
 | Panic button                 | F10 (terminates autohotkey) <br/>
-================================================================================================================================== <br/>
+============================================================================================ <br/>
 | Set weapon you are using by pressing its F(number) button and then just hold left mouse button and you will start compensating | <br/>
-================================================================================================================================== <br/>
-
-================================================================================================================================== <br/>
+============================================================================================ <br/>
 | TriggerBotOP(NoHold)         | key \ 
 | TriggerBotOP(Hold)           | key |
 | AimbotTUT                    | key ] 
