@@ -30,4 +30,4 @@ AimbotTUT | key ] <br/>
 GlowAim | key } <br/>
 Exit Third Script | key End <br/>
 
-See more at CSGO_KeyControl.txt
+#See more at CSGO_KeyControl.txt
