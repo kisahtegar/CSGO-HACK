@@ -28,9 +28,6 @@ TriggerBotOP(NoHold) | key \ <br/>
 TriggerBotOP(Hold) | key | <br/>
 AimbotTUT | key ] <br/>
 GlowAim | key } <br/>
-Radar | key [ <br/>
-Glow | key { <br/>
-Bhop | key ' <br/>
-Recoil Control System | key " <br/>
-Anti Flashbang Dance | key ; <br/>
 Exit Third Script | key End <br/>
+
+See more at CSGO_KeyControl.txt
